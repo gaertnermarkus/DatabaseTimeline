@@ -1,9 +1,10 @@
 <?php
 
 /**
+ *
+ * Other libraries
  * http://www.infoom.se/compare-mysql-online/#results
-
-    https://medoo.in/api/new
+  *https://medoo.in/api/new
  */
 
 require_once dirname(__FILE__) . "/../bootstrap.php";
